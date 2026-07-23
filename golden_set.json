@@ -1,0 +1,527 @@
+[
+  {
+    "url": "https://www.fsf.org/about/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "campaigns@fsf.org",
+      "info@fsf.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [],
+    "notes": "Contact page, single-page scope. mailto campaigns@ + in-text info@. Verified in browser 2026-07-21."
+  },
+  {
+    "url": "https://www.heise.de/impressum.html",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "webmaster@heise.de",
+      "tbe@ct.de",
+      "nie@heise.de",
+      "ct@ct.de",
+      "tir@heise.de",
+      "mads@heise.de",
+      "recht@heise.de"
+    ],
+    "expected_phones": [
+      "+4951153520",
+      "+495115352129"
+    ],
+    "expected_socials": [],
+    "notes": "German legal Impressum (mail required by law). 7 mailto addresses + phone/fax +49 511 5352-0/-129 (parsed from text). Verified in browser 2026-07-21."
+  },
+  {
+    "url": "https://www.python.org/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://linkedin.com/company/python-software-foundation",
+      "https://x.com/ThePSF"
+    ],
+    "notes": "Homepage footer socials. Verified in browser 2026-07-21."
+  },
+  {
+    "url": "https://apify.com/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://linkedin.com/company/apify",
+      "https://x.com/apify",
+      "https://tiktok.com/@apifytech",
+      "https://youtube.com/apify"
+    ],
+    "notes": "Homepage footer socials (LinkedIn via http in source, deduped). Verified in browser 2026-07-21. youtube.com/apify (vanity) recovered."
+  },
+  {
+    "url": "https://www.blender.org/about/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "donations@fund.blender.org",
+      "subscriptions@studio.blender.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://instagram.com/blender.official",
+      "https://facebook.com/YourOwn3DSoftware",
+      "https://linkedin.com/company/blender-org",
+      "https://tiktok.com/@blender_org",
+      "https://youtube.com/BlenderFoundation",
+      "https://youtube.com/blenderdevelopers"
+    ],
+    "notes": "About page: 4 social profiles + 2 emails obfuscated as 'X at Y.blender.org' in source (engine de-obfuscated them; verified in raw HTML). About page footer socials. Verified 2026-07-21. + 2 vanity YouTube channels (BlenderFoundation, blenderdevelopers) recovered."
+  },
+  {
+    "url": "https://www.eff.org/about/contact",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "activist@eff.org",
+      "extension-devs@eff.org",
+      "hr@eff.org",
+      "info@eff.org",
+      "membership@eff.org",
+      "press@eff.org"
+    ],
+    "expected_phones": [
+      "+14154369333",
+      "+14154369993",
+      "+15102438020"
+    ],
+    "expected_socials": [
+      "https://facebook.com/eff",
+      "https://instagram.com/efforg",
+      "https://linkedin.com/company/EFF",
+      "https://tiktok.com/@efforg",
+      "https://youtube.com/efforg"
+    ],
+    "notes": "US org contact page: 6 mailto emails, 3 phones (+1, region-independent), 5 socials. youtube.com/efforg is a vanity URL (no @/channel/user) the engine's pattern currently misses. Verified in raw HTML 2026-07-21."
+  },
+  {
+    "url": "https://www.gnu.org/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "assign@gnu.org",
+      "gnu@gnu.org",
+      "license-violation@gnu.org",
+      "licensing@gnu.org",
+      "maintainers@gnu.org",
+      "sysadmin@gnu.org",
+      "web-translators@gnu.org",
+      "webmasters@gnu.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [],
+    "notes": "8 mailto emails @gnu.org. Pure email-recall case. Verified in raw HTML 2026-07-21."
+  },
+  {
+    "url": "https://about.gitlab.com/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/gitlab",
+      "https://facebook.com/gitlab",
+      "https://instagram.com/gitlab",
+      "https://linkedin.com/company/gitlab-com",
+      "https://youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg"
+    ],
+    "notes": "JS-heavy homepage: no contacts in text, socials live in the raw footer + JSON-LD sameAs. Tests that the httpx (no-JS) fetch still recovers footer socials. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.mozilla.org/en-US/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "trademark-permissions@mozilla.com"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/mozilla",
+      "https://instagram.com/firefox",
+      "https://instagram.com/mozilla",
+      "https://linkedin.com/company/mozilla-corporation",
+      "https://tiktok.com/@firefox",
+      "https://tiktok.com/@mozilla",
+      "https://youtube.com/user/firefoxchannel"
+    ],
+    "notes": "1 real mailto + 7 socials. Page also embeds a Sentry ingest address (hash@o*.ingest.sentry.io) that is NOT a contact; is_placeholder must drop it (exact-domain match currently only covers sentry.io, not the ingest subdomain). Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.torproject.org/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "frontdesk@torproject.org",
+      "giving@torproject.org",
+      "security@torproject.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/torproject",
+      "https://facebook.com/TorProject",
+      "https://instagram.com/torproject",
+      "https://linkedin.com/company/tor-project",
+      "https://youtube.com/user/TheTorProject"
+    ],
+    "notes": "3 emails in plain visible text (not mailto) + socials with http/https and trailing-slash variants that must dedupe. Verified in raw HTML 2026-07-21."
+  },
+  {
+    "url": "https://creativecommons.org/about/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "audit@creativecommons.org",
+      "communications@creativecommons.org",
+      "info@creativecommons.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/creativecommons",
+      "https://linkedin.com/company/creative-commons"
+    ],
+    "notes": "3 mailto emails + 2 socials. Clean. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.debian.org/contact",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "community@debian.org",
+      "debian-boot@lists.debian.org",
+      "debian-devel@lists.debian.org",
+      "debian-events-eu@lists.debian.org",
+      "debian-project@lists.debian.org",
+      "debian-user@lists.debian.org",
+      "debian-www@lists.debian.org",
+      "events@debian.org",
+      "listmaster@lists.debian.org",
+      "mirrors@debian.org",
+      "owner@bugs.debian.org",
+      "press@debian.org",
+      "security@debian.org",
+      "webmaster@debian.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [],
+    "notes": "14 mailto emails across debian.org / lists.debian.org / bugs.debian.org subdomains. High-recall stress case. Verified 2026-07-21."
+  },
+  {
+    "url": "https://signal.org/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "press@signal.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://instagram.com/signal_app",
+      "https://x.com/signalapp"
+    ],
+    "notes": "Cloudflare email-protection: press@signal.org is cf-encoded (data-cfemail + /cdn-cgi/l/email-protection#hex), decoded by hand and confirmed. + 2 socials. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.kernel.org/category/contact-us.html",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "helpdesk@kernel.org"
+    ],
+    "expected_phones": [
+      "+14157239709"
+    ],
+    "expected_socials": [],
+    "notes": "Email written with an HTML entity (helpdesk&#64;kernel.org) that must be decoded, + one +1 phone. Verified in raw HTML 2026-07-21."
+  },
+  {
+    "url": "https://www.livechat.com/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "sales@text.com",
+      "support@text.com"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/TextHQ",
+      "https://facebook.com/livechat",
+      "https://instagram.com/livechat",
+      "https://instagram.com/text_hq",
+      "https://linkedin.com/company/livechat",
+      "https://linkedin.com/company/text",
+      "https://youtube.com/@Text_HQ",
+      "https://x.com/text_hq",
+      "https://youtube.com/livechat"
+    ],
+    "notes": "Emails only in JSON-LD @graph contactPoint[] (deep-walk #6), not in mailto. Two brand identities (LiveChat/Text) => many real profiles; twitter/intent share link must be blacklisted. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.cloudflare.com/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://linkedin.com/company/cloudflare",
+      "https://x.com/cloudflare"
+    ],
+    "notes": "Homepage socials via JSON-LD sameAs + footer. Thin, social-only. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.docker.com/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/docker",
+      "https://facebook.com/docker.run",
+      "https://instagram.com/dockerinc",
+      "https://linkedin.com/company/docker",
+      "https://youtube.com/user/dockerrun"
+    ],
+    "notes": "Messy footer: youtube /embed/ share link must be dropped; both twitter.com/docker and x.com/docker appear in source (engine keeps both hosts). Verified 2026-07-21."
+  },
+  {
+    "url": "https://brand24.com/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "help@brand24.com"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/brand24",
+      "https://facebook.com/brand24",
+      "https://instagram.com/brand24app",
+      "https://linkedin.com/company/brand24-s-a",
+      "https://tiktok.com/@brand24app",
+      "https://youtube.com/brand24"
+    ],
+    "notes": "PL company (en page): 1 mailto + 6 socials. youtube.com/brand24 is a vanity URL the engine's pattern misses. Verified 2026-07-21."
+  },
+  {
+    "url": "https://nazwa.pl/kontakt",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "kontakt@nazwa.pl",
+      "iod@nazwa.pl"
+    ],
+    "expected_phones": [
+      "+48224544810",
+      "+48801332233"
+    ],
+    "expected_socials": [
+      "https://x.com/nazwapl",
+      "https://facebook.com/nazwapl",
+      "https://instagram.com/nazwapl"
+    ],
+    "notes": "PL hosting (lang=pl): kontakt@ (mailto) + iod@ (DPO, in text) + 3 socials. 2 PL phones parsed from visible text via region=PL (.pl TLD). Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.postgresql.org/about/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "coc@postgresql.org",
+      "funds-group@postgresql.org",
+      "security@postgresql.org",
+      "usergroups@postgresql.org",
+      "webmaster@postgresql.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [],
+    "notes": "5 mailto emails @postgresql.org. Clean. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.ietf.org/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "exec-director@ietf.org",
+      "liaison-coordination@iab.org",
+      "media@ietf.org",
+      "privacy@ietf.org",
+      "sponsorship@ietf.org",
+      "support@ietf.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/ietf",
+      "https://linkedin.com/company/internet-engineering-task-force",
+      "https://youtube.com/ietf"
+    ],
+    "notes": "6 mailto emails incl. a cross-domain iab.org address. youtube.com/ietf is a vanity URL the engine misses. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.mysql.com/about/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [
+      "+18662210634",
+      "+33157608357",
+      "+390224959120",
+      "+442075538447",
+      "+498914301280"
+    ],
+    "expected_socials": [
+      "https://facebook.com/mysql",
+      "https://youtube.com/mysqlchannel",
+      "https://linkedin.com/company/mysql",
+      "https://x.com/mysql"
+    ],
+    "notes": "Multi-country phone list, all +-prefixed (region-independent); a malformed 000800... string must be ignored. youtube.com/mysqlchannel is a vanity URL the engine misses. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.apache.org/foundation/contact.html",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "apache@apache.org",
+      "fundraising@apache.org",
+      "press@apache.org"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/TheASF",
+      "https://linkedin.com/company/the-apache-software-foundation",
+      "https://youtube.com/c/TheApacheFoundation"
+    ],
+    "notes": "3 mailto emails + 3 socials (youtube /c/ form is matched). Clean. Verified 2026-07-21."
+  },
+  {
+    "url": "https://automattic.com/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "support@cloudup.com",
+      "support@longreads.com"
+    ],
+    "expected_phones": [
+      "+18772733049"
+    ],
+    "expected_socials": [
+      "https://facebook.com/AutomatticInc",
+      "https://facebook.com/WordPresscom",
+      "https://linkedin.com/company/automattic",
+      "https://youtube.com/c/automattic",
+      "https://x.com/automattic"
+    ],
+    "notes": "Cross-domain emails (cloudup.com + longreads.com brands) via mailto + 5 socials. NOTE: automattic.com's own address is only embedded in a JS config blob (not rendered/mailto/JSON-LD), so it is out of scope for a no-JS fetch. Verified 2026-07-21. PHONE ADDED 2026-07-22: \"Our voicemail is (877) 273-3049.\" is visible page text; Faza 3 missed it because the old harness did not apply the production content-region fallback."
+  },
+  {
+    "url": "https://www.php.net/contact",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "php-general@lists.php.net",
+      "php-webmaster@lists.php.net",
+      "security@php.net"
+    ],
+    "expected_phones": [],
+    "expected_socials": [],
+    "notes": "3 mailto emails. Clean. Verified 2026-07-21."
+  },
+  {
+    "url": "https://survicate.com/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "complaints@survicate.com",
+      "gdpr@survicate.com",
+      "invoices@survicate.com",
+      "security@survicate.com",
+      "support@survicate.com"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/Survicate",
+      "https://linkedin.com/company/survicate"
+    ],
+    "notes": "PL company (JSON-LD addressCountry PL, Warsaw). 4 emails in visible text + invoices@ ONLY in JSON-LD contactPoint (deep-walk #6 must recover it). Verified 2026-07-21."
+  },
+  {
+    "url": "https://callpage.io/",
+    "maxContactPages": 0,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://x.com/callpage_io",
+      "https://facebook.com/callpage.io",
+      "https://instagram.com/callpage.io",
+      "https://linkedin.com/company/call-page",
+      "https://youtube.com/channel/UCY7X8vYRlDPj9U3Z5aoRcvA"
+    ],
+    "notes": "PL company homepage: contact emails are only in the page's serialized JS/JSON (JS-escaped), not the rendered DOM, so a no-JS fetch legitimately can't reach them (out of scope). Socials render in the footer. Verified 2026-07-21."
+  },
+  {
+    "url": "https://tidio.com/contact/",
+    "maxContactPages": 0,
+    "expected_emails": [
+      "support@tidio.net"
+    ],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/TidioCX",
+      "https://instagram.com/tidiocx",
+      "https://linkedin.com/company/tidio-ltd",
+      "https://youtube.com/@Tidio",
+      "https://youtube.com/channel/UCwAHN3_OptyMS_us7oxciqQ",
+      "https://x.com/tidiocx"
+    ],
+    "notes": "PL company: support address on a different domain (.net). Two YouTube forms (@handle + channel/UC..) both present in source. Verified 2026-07-21."
+  },
+  {
+    "url": "https://www.bluehost.com/contact",
+    "maxContactPages": 0,
+    "requiresJs": true,
+    "expected_emails": [
+      "press@bluehost.com",
+      "affiliates@bluehost.com",
+      "legal@newfold.com"
+    ],
+    "expected_phones": [
+      "+18884014678",
+      "+18553723679",
+      "+18443031730",
+      "+18017659400"
+    ],
+    "expected_socials": [
+      "https://facebook.com/bluehost",
+      "https://x.com/bluehost",
+      "https://instagram.com/bluehost",
+      "https://linkedin.com/company/bluehost-com",
+      "https://youtube.com/user/bluehost"
+    ],
+    "notes": "US hosting. httpx reaches the page (200), but legal@newfold.com lives in a JSON-LD ContactPoint (Legal Department) injected by JS - only renderJs=on recovers it; renderJs=auto keeps the cheap path because the static pass already found contacts. Phone 888-401-4678 confirmed visually. Verified 2026-07-22."
+  },
+  {
+    "url": "https://www.constantcontact.com/contact-us",
+    "maxContactPages": 0,
+    "requiresJs": true,
+    "expected_emails": [],
+    "expected_phones": [
+      "+18773585969",
+      "+18557832308",
+      "+18662892101"
+    ],
+    "expected_socials": [
+      "https://facebook.com/constantcontact",
+      "https://instagram.com/constantcontact",
+      "https://linkedin.com/company/constant-contact",
+      "https://x.com/constantcontact",
+      "https://youtube.com/constantcontact"
+    ],
+    "notes": "httpx gets HTTP 403 (no-JS client blocked) => zero contacts without a browser. 877-358-5969 and 855-783-2308 visible in the page text, +1-866-289-2101 from the JSON-LD ContactPoint (Customer Service). Verified in browser 2026-07-22. NOTE (cloud, 2026-07-22): this site answers 403 to a datacenter IP even when a browser is driving, so it is only recoverable from a residential IP - the local benchmark passes, an Apify cloud run does not."
+  },
+  {
+    "url": "https://www.hotjar.com/contact/",
+    "maxContactPages": 0,
+    "requiresJs": true,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/HotjarApps",
+      "https://x.com/hotjar",
+      "https://mt.linkedin.com/company/hotjar",
+      "https://youtube.com/channel/UC_B6JMm8IrO1JJxyx7hjR6A"
+    ],
+    "notes": "httpx gets HTTP 403; the browser follows the redirect to help.hotjar.com (same registered domain) and reads the footer profiles. Verified in browser 2026-07-22. NOTE (cloud, 2026-07-22): this site answers 403 to a datacenter IP even when a browser is driving, so it is only recoverable from a residential IP - the local benchmark passes, an Apify cloud run does not."
+  },
+  {
+    "url": "https://www.dropbox.com/support",
+    "maxContactPages": 0,
+    "requiresJs": true,
+    "expected_emails": [],
+    "expected_phones": [],
+    "expected_socials": [
+      "https://facebook.com/Dropbox",
+      "https://x.com/Dropbox",
+      "https://youtube.com/user/dropbox"
+    ],
+    "notes": "httpx returns 200 but the served HTML carries no contacts - the footer is built client-side. Genuine JS-only gain. Verified in browser 2026-07-22."
+  }
+]

@@ -1,0 +1,1502 @@
+[
+ {
+  "url": "https://ornadyne.com/",
+  "name": "Ornadyne",
+  "batch": "P26"
+ },
+ {
+  "url": "https://syntheticsciences.ai/",
+  "name": "Synthetic Sciences",
+  "batch": "W26"
+ },
+ {
+  "url": "https://aktoria.com/",
+  "name": "Aktoria Robotics",
+  "batch": "S26"
+ },
+ {
+  "url": "https://amboras.com",
+  "name": "Amboras",
+  "batch": "P26"
+ },
+ {
+  "url": "https://6thsense.dev",
+  "name": "6thSense",
+  "batch": "S26"
+ },
+ {
+  "url": "https://realpact.ai",
+  "name": "RealPact",
+  "batch": "S26"
+ },
+ {
+  "url": "https://pothlabs.com",
+  "name": "Poth Labs",
+  "batch": "S26"
+ },
+ {
+  "url": "https://voquill.com/",
+  "name": "Voquill",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.floracene.com/",
+  "name": "Floracene",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.onerobot.io/",
+  "name": "One Robot",
+  "batch": "W26"
+ },
+ {
+  "url": "https://mendral.com/",
+  "name": "Mendral",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.lance.live",
+  "name": "Lance",
+  "batch": "W26"
+ },
+ {
+  "url": "https://olamlabs.ai",
+  "name": "Olam Labs",
+  "batch": "S26"
+ },
+ {
+  "url": "https://bentolabs.ai/",
+  "name": "BentoLabs AI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.hlaboratories.com",
+  "name": "Hlabs",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.cerenovus.ai/",
+  "name": "Cerenovus",
+  "batch": "S26"
+ },
+ {
+  "url": "https://proximitty.ai",
+  "name": "Proximitty",
+  "batch": "W26"
+ },
+ {
+  "url": "https://aquashieldai.com",
+  "name": "AquaShield",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.oddpool.com",
+  "name": "Oddpool",
+  "batch": "P26"
+ },
+ {
+  "url": "https://kelaitech.com/",
+  "name": "KelAI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.celltype.com",
+  "name": "CellType",
+  "batch": "W26"
+ },
+ {
+  "url": "https://tsenta.com",
+  "name": "Tsenta",
+  "batch": "S26"
+ },
+ {
+  "url": "https://interfaze.ai",
+  "name": "Interfaze",
+  "batch": "P26"
+ },
+ {
+  "url": "https://beesafe.ai/",
+  "name": "BeeSafe AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://osseus.ai/",
+  "name": "Osseus",
+  "batch": "S26"
+ },
+ {
+  "url": "https://envariant.ai/",
+  "name": "Envariant",
+  "batch": "W26"
+ },
+ {
+  "url": "http://usereframe.ai",
+  "name": "Reframe",
+  "batch": "W26"
+ },
+ {
+  "url": "https://instaagent.com",
+  "name": "InstaAgent",
+  "batch": "P26"
+ },
+ {
+  "url": "https://junocompanion.com/",
+  "name": "Juno",
+  "batch": "P26"
+ },
+ {
+  "url": "https://ontora.com",
+  "name": "Ontora",
+  "batch": "P26"
+ },
+ {
+  "url": "https://tryastraea.com",
+  "name": "Astraea",
+  "batch": "P26"
+ },
+ {
+  "url": "https://foaster.ai",
+  "name": "Foaster",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.unisson.ai",
+  "name": "Unisson",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.risklytics.ai/",
+  "name": "Risklytics",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.trymemoir.ai/",
+  "name": "Memoir",
+  "batch": "P26"
+ },
+ {
+  "url": "https://skymerse.com",
+  "name": "Skymerse",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.burthq.com/",
+  "name": "Burt",
+  "batch": "W26"
+ },
+ {
+  "url": "https://usetruffle.ai/",
+  "name": "Truffle",
+  "batch": "S26"
+ },
+ {
+  "url": "https://rentahuman.ai",
+  "name": "RentAHuman",
+  "batch": "P26"
+ },
+ {
+  "url": "https://openworklabs.com",
+  "name": "OpenWork",
+  "batch": "P26"
+ },
+ {
+  "url": "https://congruent.io",
+  "name": "Congruent",
+  "batch": "W26"
+ },
+ {
+  "url": "https://kimpton.ai",
+  "name": "Kimpton AI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://prose.md",
+  "name": "OpenProse",
+  "batch": "P26"
+ },
+ {
+  "url": "https://chronicle-labs.com",
+  "name": "Chronicle Labs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://stilta.com",
+  "name": "Stilta",
+  "batch": "W26"
+ },
+ {
+  "url": "https://agentphone.ai/",
+  "name": "AgentPhone",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.trykinect.ai/",
+  "name": "Kinect",
+  "batch": "P26"
+ },
+ {
+  "url": "http://opalitehealth.com/",
+  "name": "Opalite Health",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.watolabs.com/",
+  "name": "Wato",
+  "batch": "P26"
+ },
+ {
+  "url": "https://silmaril.dev",
+  "name": "Silmaril",
+  "batch": "P26"
+ },
+ {
+  "url": "https://trope.ai",
+  "name": "Trope",
+  "batch": "S26"
+ },
+ {
+  "url": "https://donkey.trade",
+  "name": "Donkey",
+  "batch": "S26"
+ },
+ {
+  "url": "https://dev.fast",
+  "name": "/dev/fast",
+  "batch": "W26"
+ },
+ {
+  "url": "https://fullseam.com",
+  "name": "FullSeam",
+  "batch": "W26"
+ },
+ {
+  "url": "https://greypointindustries.ca/",
+  "name": "Greypoint Industries",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.infera.bio",
+  "name": "Infera",
+  "batch": "P26"
+ },
+ {
+  "url": "https://litmushiring.com/",
+  "name": "Litmus",
+  "batch": "S26"
+ },
+ {
+  "url": "https://atlasdiscovery.bio",
+  "name": "Atlas Discovery",
+  "batch": "S26"
+ },
+ {
+  "url": "https://reasonblocks.com/",
+  "name": "ReasonBlocks",
+  "batch": "P26"
+ },
+ {
+  "url": "https://ploy.ai",
+  "name": "Ploy",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.soriaanalytics.com/",
+  "name": "Soria",
+  "batch": "P26"
+ },
+ {
+  "url": "https://cohesionplatform.com/",
+  "name": "Cohesion",
+  "batch": "P26"
+ },
+ {
+  "url": "https://trydenta.com",
+  "name": "Denta",
+  "batch": "S26"
+ },
+ {
+  "url": "https://tester.army",
+  "name": "TesterArmy",
+  "batch": "P26"
+ },
+ {
+  "url": "http://coasty.ai/",
+  "name": "Coasty",
+  "batch": "S26"
+ },
+ {
+  "url": "https://ego.ist/",
+  "name": "Egoist Machines",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.ossus.com",
+  "name": "Ossus",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.ed1th.com",
+  "name": "ED1TH",
+  "batch": "P26"
+ },
+ {
+  "url": "http://shotwell.ai/",
+  "name": "shotwell.ai",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.legalos.ai",
+  "name": "LegalOS",
+  "batch": "W26"
+ },
+ {
+  "url": "https://perceptronml.com",
+  "name": "Perceptron ML",
+  "batch": "S26"
+ },
+ {
+  "url": "https://klausai.com",
+  "name": "Klaus AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://payna.com/",
+  "name": "Payna",
+  "batch": "W26"
+ },
+ {
+  "url": "https://buildwithglue.com",
+  "name": "Anchorhead",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.drafted.ai/",
+  "name": "Drafted",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.ventura.ai",
+  "name": "Ventura",
+  "batch": "W26"
+ },
+ {
+  "url": "https://tday.com",
+  "name": "tday.com",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.corelayer.com",
+  "name": "Corelayer",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.gojiberry.ai",
+  "name": "Gojiberry AI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://gigacatalyst.com/",
+  "name": "Gigacatalyst",
+  "batch": "P26"
+ },
+ {
+  "url": "https://onecli.sh",
+  "name": "OneCLI",
+  "batch": "S26"
+ },
+ {
+  "url": "https://hardwareintelligence.ai",
+  "name": "hardware intelligence",
+  "batch": "S26"
+ },
+ {
+  "url": "https://surtrdefense.com",
+  "name": "Surtr Defense Systems",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.kinro.com/",
+  "name": "Kinro",
+  "batch": "P26"
+ },
+ {
+  "url": "https://remix.re",
+  "name": "Remix",
+  "batch": "W26"
+ },
+ {
+  "url": "https://autositu.com/",
+  "name": "AutoSitu",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.dittobio.com/",
+  "name": "Ditto Biosciences",
+  "batch": "W26"
+ },
+ {
+  "url": "https://parasma.com",
+  "name": "Parasma",
+  "batch": "S26"
+ },
+ {
+  "url": "https://unifold.io",
+  "name": "Unifold",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.praxisrobotics.io",
+  "name": "Praxis AI",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.verdantapp.com/",
+  "name": "Verdant",
+  "batch": "S26"
+ },
+ {
+  "url": "https://ara.so",
+  "name": "Ara",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.incandor.com",
+  "name": "Incandor",
+  "batch": "P26"
+ },
+ {
+  "url": "https://heysavant.com/",
+  "name": "Savant",
+  "batch": "P26"
+ },
+ {
+  "url": "https://plan0.ai/",
+  "name": "PLAN0 AI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.manufacturingintelligence.org",
+  "name": "HERA",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.usetorus.com",
+  "name": "Torus",
+  "batch": "S26"
+ },
+ {
+  "url": "https://approxima.ai",
+  "name": "Approxima",
+  "batch": "W26"
+ },
+ {
+  "url": "https://caj.al/",
+  "name": "Cajal",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.asterlab.ai/",
+  "name": "Aster",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.getprescience.com/",
+  "name": "Prescience, Inc.",
+  "batch": "S26"
+ },
+ {
+  "url": "https://trycardinal.ai/",
+  "name": "Cardinal",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.terminaluse.com/",
+  "name": "Terminal Use",
+  "batch": "W26"
+ },
+ {
+  "url": "https://rhizomeai.com/",
+  "name": "Rhizome AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.rex.inc",
+  "name": "Rex",
+  "batch": "S26"
+ },
+ {
+  "url": "https://silahq.com",
+  "name": "Sila",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.getbiostack.com/",
+  "name": "BioStack Platforms",
+  "batch": "P26"
+ },
+ {
+  "url": "https://overshoot.ai",
+  "name": "Overshoot",
+  "batch": "W26"
+ },
+ {
+  "url": "https://generalaviation.com",
+  "name": "General Aviation",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.mochacare.com/",
+  "name": "MochaCare",
+  "batch": "W26"
+ },
+ {
+  "url": "http://isengardindustries.com/",
+  "name": "Isengard Industries Inc",
+  "batch": "S26"
+ },
+ {
+  "url": "https://kytentech.com",
+  "name": "Kyten Technologies",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.alloovium.com/en",
+  "name": "Alloovium",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.propriorobotics.com/",
+  "name": "Proprio Robotics",
+  "batch": "S26"
+ },
+ {
+  "url": "https://netter.ai",
+  "name": "Netter",
+  "batch": "P26"
+ },
+ {
+  "url": "https://superlog.sh/",
+  "name": "Superlog",
+  "batch": "P26"
+ },
+ {
+  "url": "https://origin.bio/",
+  "name": "Origin",
+  "batch": "W26"
+ },
+ {
+  "url": "https://raspire.com/",
+  "name": "RASPIRE",
+  "batch": "P26"
+ },
+ {
+  "url": "https://inkbox.ai",
+  "name": "Inkbox",
+  "batch": "S26"
+ },
+ {
+  "url": "https://martini.film",
+  "name": "Martini",
+  "batch": "W26"
+ },
+ {
+  "url": "https://salemroboticsinc.com",
+  "name": "Salem Robotics Inc",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.twolabs.ai",
+  "name": "Twolabs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://linzumi.com",
+  "name": "Linzumi",
+  "batch": "P26"
+ },
+ {
+  "url": "https://trymaven.com",
+  "name": "Maven",
+  "batch": "W26"
+ },
+ {
+  "url": "https://bubblelab.ai/",
+  "name": "Bubble Lab",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.usecrow.ai/",
+  "name": "Crow",
+  "batch": "W26"
+ },
+ {
+  "url": "https://dispatch.space/",
+  "name": "Dispatch",
+  "batch": "P26"
+ },
+ {
+  "url": "https://aicepower.com",
+  "name": "AICE",
+  "batch": "P26"
+ },
+ {
+  "url": "https://manicule.dev",
+  "name": "Manicule",
+  "batch": "P26"
+ },
+ {
+  "url": "https://pairio.com",
+  "name": "Pairio",
+  "batch": "P26"
+ },
+ {
+  "url": "https://servo7.com",
+  "name": "Servo7",
+  "batch": "W26"
+ },
+ {
+  "url": "https://experientiallabs.ai",
+  "name": "Experiential Labs",
+  "batch": "S26"
+ },
+ {
+  "url": "https://hop-aero.com",
+  "name": "Hop Aero",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.usechamber.io",
+  "name": "Chamber",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.trychert.com/",
+  "name": "Chert",
+  "batch": "P26"
+ },
+ {
+  "url": "https://instaplay.ai",
+  "name": "Instaplay",
+  "batch": "S26"
+ },
+ {
+  "url": "https://jinba.io",
+  "name": "Jinba",
+  "batch": "W26"
+ },
+ {
+  "url": "https://cova.care/",
+  "name": "Cova",
+  "batch": "S26"
+ },
+ {
+  "url": "https://hub.xyz",
+  "name": "Hub",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.beyondreachlabs.com",
+  "name": "Beyond Reach Labs",
+  "batch": "W26"
+ },
+ {
+  "url": "https://youart.ai",
+  "name": "YouArt",
+  "batch": "P26"
+ },
+ {
+  "url": "https://baseframe.co",
+  "name": "BaseFrame",
+  "batch": "W26"
+ },
+ {
+  "url": "https://context.dev",
+  "name": "Context.dev",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.aseonlabs.com/",
+  "name": "Aseon Labs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.avearobotics.com",
+  "name": "Avea Robotics",
+  "batch": "P26"
+ },
+ {
+  "url": "https://expanse.sh",
+  "name": "Expanse",
+  "batch": "P26"
+ },
+ {
+  "url": "https://terranox.ai",
+  "name": "Terranox AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.usekita.com/",
+  "name": "Kita",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.hexaagents.com",
+  "name": "Hexa",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.salesgraph.com/",
+  "name": "Salesgraph",
+  "batch": "P26"
+ },
+ {
+  "url": "https://keyframelabs.com",
+  "name": "Keyframe Labs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://characterquilt.com",
+  "name": "CharacterQuilt",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.trysaffron.ai/",
+  "name": "Saffron",
+  "batch": "P26"
+ },
+ {
+  "url": "https://usedrip.ai",
+  "name": "Drip",
+  "batch": "P26"
+ },
+ {
+  "url": "https://o11.ai",
+  "name": "o11",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.daivin.tech/",
+  "name": "DAIVIN!",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.mousecat.ai",
+  "name": "MouseCat",
+  "batch": "W26"
+ },
+ {
+  "url": "https://earendil.io",
+  "name": "Earendil Robotics",
+  "batch": "S26"
+ },
+ {
+  "url": "https://strandai.com",
+  "name": "Strand AI",
+  "batch": "W26"
+ },
+ {
+  "url": "http://hyperprobe.co",
+  "name": "HyperProbe",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.latticehealthai.com/",
+  "name": "Lattice Health",
+  "batch": "P26"
+ },
+ {
+  "url": "https://deepinteractions.ai/",
+  "name": "Deep Interactions",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.robodock.tech/",
+  "name": "RoboDock",
+  "batch": "W26"
+ },
+ {
+  "url": "https://pranadoc.com",
+  "name": "Prana",
+  "batch": "W26"
+ },
+ {
+  "url": "https://valence.trade",
+  "name": "Valence",
+  "batch": "W26"
+ },
+ {
+  "url": "https://oximy.com",
+  "name": "Oximy",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.projectx.cloud/",
+  "name": "ProjectX",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.textsidekick.com/",
+  "name": "Sidekick",
+  "batch": "S26"
+ },
+ {
+  "url": "https://palettetechnology.com/",
+  "name": "Palette",
+  "batch": "S26"
+ },
+ {
+  "url": "https://moda.dev",
+  "name": "Moda",
+  "batch": "W26"
+ },
+ {
+  "url": "https://degla.ai",
+  "name": "Degla Inc",
+  "batch": "F26"
+ },
+ {
+  "url": "https://www.useparrot.com/",
+  "name": "Parrot",
+  "batch": "P26"
+ },
+ {
+  "url": "https://milliray.com/",
+  "name": "Milliray",
+  "batch": "W26"
+ },
+ {
+  "url": "https://petrarch.co/",
+  "name": "Petrarch",
+  "batch": "S26"
+ },
+ {
+  "url": "https://machine0.io",
+  "name": "machine0",
+  "batch": "S26"
+ },
+ {
+  "url": "https://rise-reforming.com/home",
+  "name": "Rise Reforming",
+  "batch": "S26"
+ },
+ {
+  "url": "https://general.legal",
+  "name": "General Legal",
+  "batch": "W26"
+ },
+ {
+  "url": "https://vestris.ai/",
+  "name": "Vestris",
+  "batch": "S26"
+ },
+ {
+  "url": "https://cofia.ai",
+  "name": "Cofia",
+  "batch": "W26"
+ },
+ {
+  "url": "https://supafax.com",
+  "name": "Supafax",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.runcanary.ai",
+  "name": "Canary",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.walter.one",
+  "name": "Walter",
+  "batch": "P26"
+ },
+ {
+  "url": "https://napkinmath.club",
+  "name": "Napkin Math",
+  "batch": "P26"
+ },
+ {
+  "url": "https://ressl.ai",
+  "name": "Ressl AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.tryoctapulse.com/",
+  "name": "OctaPulse",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.tryglen.com/",
+  "name": "Glen",
+  "batch": "S26"
+ },
+ {
+  "url": "https://pango.ai/",
+  "name": "Pango",
+  "batch": "S26"
+ },
+ {
+  "url": "https://usepolymorph.com/",
+  "name": "Polymorph",
+  "batch": "W26"
+ },
+ {
+  "url": "https://opentrade.live/",
+  "name": "OpenTrade",
+  "batch": "S26"
+ },
+ {
+  "url": "https://tryalchemize.com",
+  "name": "Alchemize",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.humanarchive.ai/",
+  "name": "Human Archive",
+  "batch": "W26"
+ },
+ {
+  "url": "https://standardsignal.com",
+  "name": "Standard Signal",
+  "batch": "P26"
+ },
+ {
+  "url": "https://trellistech.com",
+  "name": "Trellis",
+  "batch": "P26"
+ },
+ {
+  "url": "https://trybloom.ai",
+  "name": "Bloom",
+  "batch": "P26"
+ },
+ {
+  "url": "https://kugelaudio.com/en",
+  "name": "KugelAudio",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.elyrasystems.com/",
+  "name": "Elyra",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.daqstra.com",
+  "name": "Daqstra",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.usedefinite.com",
+  "name": "Definite",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.rivermarkets.com",
+  "name": "River Markets",
+  "batch": "P26"
+ },
+ {
+  "url": "https://ashr.io",
+  "name": "Ashr",
+  "batch": "W26"
+ },
+ {
+  "url": "https://lightsprint.ai",
+  "name": "Lightsprint",
+  "batch": "P26"
+ },
+ {
+  "url": "https://atrisa.ai",
+  "name": "Atrisa",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.seeing-systems.com",
+  "name": "Seeing Systems",
+  "batch": "W26"
+ },
+ {
+  "url": "https://item.app",
+  "name": "item",
+  "batch": "F25"
+ },
+ {
+  "url": "https://lim.run",
+  "name": "Limrun",
+  "batch": "P26"
+ },
+ {
+  "url": "https://mayflowervisa.com",
+  "name": "Mayflower",
+  "batch": "F25"
+ },
+ {
+  "url": "https://clawvisor.com",
+  "name": "Clawvisor",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.openrelay.inc",
+  "name": "OpenRelay",
+  "batch": "S26"
+ },
+ {
+  "url": "https://stablebrowse.ai/",
+  "name": "StableBrowse",
+  "batch": "P26"
+ },
+ {
+  "url": "https://heyhyper.ai",
+  "name": "Hyper",
+  "batch": "P26"
+ },
+ {
+  "url": "https://sitefire.ai",
+  "name": "Sitefire",
+  "batch": "W26"
+ },
+ {
+  "url": "https://confluence.sh",
+  "name": "Confluence Labs",
+  "batch": "W26"
+ },
+ {
+  "url": "https://didit.me/",
+  "name": "Didit",
+  "batch": "W26"
+ },
+ {
+  "url": "https://shofo.ai/",
+  "name": "Shofo",
+  "batch": "W26"
+ },
+ {
+  "url": "https://coasts.dev",
+  "name": "Coasts",
+  "batch": "F25"
+ },
+ {
+  "url": "https://claimglide.com/",
+  "name": "ClaimGlide",
+  "batch": "W26"
+ },
+ {
+  "url": "https://wealor.ai/",
+  "name": "Wealor",
+  "batch": "P26"
+ },
+ {
+  "url": "https://docurahealth.com",
+  "name": "Docura Health",
+  "batch": "W26"
+ },
+ {
+  "url": "https://21st.dev",
+  "name": "21st",
+  "batch": "W26"
+ },
+ {
+  "url": "https://caregp.com.au/",
+  "name": "Care GP",
+  "batch": "S26"
+ },
+ {
+  "url": "https://perfectbit.ai",
+  "name": "PerfectBit, Inc.",
+  "batch": "P26"
+ },
+ {
+  "url": "https://zommalabs.com",
+  "name": "Zomma",
+  "batch": "S26"
+ },
+ {
+  "url": "https://userlens.io",
+  "name": "Userlens",
+  "batch": "P26"
+ },
+ {
+  "url": "https://akkari.io/",
+  "name": "Akkari",
+  "batch": "P26"
+ },
+ {
+  "url": "https://valgo.ai",
+  "name": "Valgo",
+  "batch": "W26"
+ },
+ {
+  "url": "https://levocred.com/",
+  "name": "Levocred AI",
+  "batch": "S26"
+ },
+ {
+  "url": "https://codewisp.ai/",
+  "name": "CodeWisp",
+  "batch": "W26"
+ },
+ {
+  "url": "https://memory.store",
+  "name": "Memory Store",
+  "batch": "P26"
+ },
+ {
+  "url": "https://protent.ai",
+  "name": "Protent",
+  "batch": "W26"
+ },
+ {
+  "url": "https://trytrust.ai",
+  "name": "TrustAI",
+  "batch": "S26"
+ },
+ {
+  "url": "https://orthogonal.com",
+  "name": "Orthogonal",
+  "batch": "W26"
+ },
+ {
+  "url": "https://callab.ai",
+  "name": "Callab AI",
+  "batch": "P26"
+ },
+ {
+  "url": "http://moritzlegal.com/",
+  "name": "Moritz",
+  "batch": "W26"
+ },
+ {
+  "url": "https://rindler.ai",
+  "name": "Rindler",
+  "batch": "S26"
+ },
+ {
+  "url": "https://cumuluslabs.io",
+  "name": "Cumulus Labs",
+  "batch": "W26"
+ },
+ {
+  "url": "https://belvedir.ai/",
+  "name": "Belvedir",
+  "batch": "S26"
+ },
+ {
+  "url": "https://getfuchsia.ai/",
+  "name": "Fuchsia",
+  "batch": "P26"
+ },
+ {
+  "url": "https://saudara.ai",
+  "name": "Saudara AI",
+  "batch": "P26"
+ },
+ {
+  "url": "https://regbase.com",
+  "name": "Regbase",
+  "batch": "P26"
+ },
+ {
+  "url": "https://voxelenergy.com/",
+  "name": "Voxel Energy",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.orvixo.ai/",
+  "name": "Orvixo",
+  "batch": "S26"
+ },
+ {
+  "url": "https://heyclicky.com/",
+  "name": "HeyClicky",
+  "batch": "P26"
+ },
+ {
+  "url": "http://www.adialante.com",
+  "name": "Adialante",
+  "batch": "P26"
+ },
+ {
+  "url": "https://govguard.com",
+  "name": "GovGuard",
+  "batch": "P26"
+ },
+ {
+  "url": "https://mount.insure",
+  "name": "Mount",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.manifoldindustries.ai/",
+  "name": "Manifold",
+  "batch": "S26"
+ },
+ {
+  "url": "https://inloop-robotics.com/",
+  "name": "InLoop Robotics",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.arzana.com/",
+  "name": "Arzana",
+  "batch": "P26"
+ },
+ {
+  "url": "https://pentagon.run",
+  "name": "Pentagon",
+  "batch": "P26"
+ },
+ {
+  "url": "http://www.useandco.com",
+  "name": "Andco",
+  "batch": "P26"
+ },
+ {
+  "url": "https://goekpa.com/",
+  "name": "Ekpa",
+  "batch": "S26"
+ },
+ {
+  "url": "https://lucenthq.com",
+  "name": "Lucent",
+  "batch": "W26"
+ },
+ {
+  "url": "https://fenrock.ai/",
+  "name": "Fenrock AI",
+  "batch": "W26"
+ },
+ {
+  "url": "https://hex.co?utm_source=bookface&utm_medium=referral&utm_campaign=hex-security-profile",
+  "name": "Hex Security",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.controlseat.com",
+  "name": "Control Seat",
+  "batch": "S26"
+ },
+ {
+  "url": "https://wayco.ai",
+  "name": "Wayco",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.lexius.ai",
+  "name": "Lexius",
+  "batch": "W26"
+ },
+ {
+  "url": "https://getmodern.ai",
+  "name": "Modern",
+  "batch": "P26"
+ },
+ {
+  "url": "https://luel.ai",
+  "name": "Luel",
+  "batch": "W26"
+ },
+ {
+  "url": "https://pops.fyi",
+  "name": "Pops",
+  "batch": "P26"
+ },
+ {
+  "url": "https://patientdesk.ai/",
+  "name": "Patientdesk.ai",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.markovstudios.com/",
+  "name": "Markov",
+  "batch": "S26"
+ },
+ {
+  "url": "https://tryscope.app",
+  "name": "Scope",
+  "batch": "P26"
+ },
+ {
+  "url": "https://provenmetal.com",
+  "name": "ProvenMetal",
+  "batch": "S26"
+ },
+ {
+  "url": "https://compresr.ai",
+  "name": "Compresr",
+  "batch": "W26"
+ },
+ {
+  "url": "https://sonarly.com",
+  "name": "Sonarly",
+  "batch": "W26"
+ },
+ {
+  "url": "https://byteport.com/",
+  "name": "Byteport",
+  "batch": "W26"
+ },
+ {
+  "url": "https://visiblsemi.com",
+  "name": "Visibl Semiconductors",
+  "batch": "W26"
+ },
+ {
+  "url": "https://nex.ai",
+  "name": "Nex",
+  "batch": "S26"
+ },
+ {
+  "url": "https://tryardent.com",
+  "name": "Ardent",
+  "batch": "P26"
+ },
+ {
+  "url": "https://doomersion.com/",
+  "name": "Doomersion",
+  "batch": "W26"
+ },
+ {
+  "url": "https://arctic.health",
+  "name": "Arctic Health",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.forum.market/",
+  "name": "Forum",
+  "batch": "W26"
+ },
+ {
+  "url": "https://alkera.ai",
+  "name": "Alkera AI",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.transload.io",
+  "name": "transload",
+  "batch": "P26"
+ },
+ {
+  "url": "https://discoveredmaterials.com",
+  "name": "Discovered Materials",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.argalabs.com/",
+  "name": "Arga Labs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://tryvela.ai",
+  "name": "Vela",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.sazabi.com/",
+  "name": "Sazabi",
+  "batch": "P26"
+ },
+ {
+  "url": "https://www.plena.health/",
+  "name": "Plena Health",
+  "batch": "P26"
+ },
+ {
+  "url": "https://runinfra.ai/",
+  "name": "RightNow",
+  "batch": "F26"
+ },
+ {
+  "url": "https://pirislabs.io/",
+  "name": "Piris Labs",
+  "batch": "W26"
+ },
+ {
+  "url": "https://9mothers.com",
+  "name": "9 Mothers",
+  "batch": "P26"
+ },
+ {
+  "url": "https://paysponge.com/",
+  "name": "Sponge",
+  "batch": "W26"
+ },
+ {
+  "url": "https://getbalance.ai",
+  "name": "Balance",
+  "batch": "W26"
+ },
+ {
+  "url": "https://tryrobby.com",
+  "name": "Robby",
+  "batch": "W26"
+ },
+ {
+  "url": "https://www.maingen.ai/",
+  "name": "Maingen",
+  "batch": "S26"
+ },
+ {
+  "url": "https://primitive.dev",
+  "name": "primitive",
+  "batch": "P26"
+ },
+ {
+  "url": "https://zolvo.com/",
+  "name": "Zolvo",
+  "batch": "P26"
+ },
+ {
+  "url": "https://codag.ai/",
+  "name": "Codag",
+  "batch": "S26"
+ },
+ {
+  "url": "https://touchmark.ai",
+  "name": "Touchmark",
+  "batch": "S26"
+ },
+ {
+  "url": "https://www.totalis.trade",
+  "name": "Totalis",
+  "batch": "P26"
+ },
+ {
+  "url": "https://aemon.ai/",
+  "name": "Aemon",
+  "batch": "W26"
+ },
+ {
+  "url": "https://godhands.dev",
+  "name": "GodHands",
+  "batch": "F26"
+ },
+ {
+  "url": "https://fabraix.com",
+  "name": "Fabraix",
+  "batch": "S26"
+ },
+ {
+  "url": "https://ramain.ai",
+  "name": "RamAIn",
+  "batch": "W26"
+ },
+ {
+  "url": "https://revion.inc",
+  "name": "Revion",
+  "batch": "W26"
+ },
+ {
+  "url": "https://centralcoms.com",
+  "name": "CentralComs",
+  "batch": "P26"
+ },
+ {
+  "url": "https://agentcard.sh",
+  "name": "Agentcard",
+  "batch": "S26"
+ },
+ {
+  "url": "https://withpanacea.com",
+  "name": "Panacea",
+  "batch": "P26"
+ }
+]
