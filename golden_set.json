@@ -25,11 +25,13 @@
       "recht@heise.de"
     ],
     "expected_phones": [
-      "+4951153520",
+      "+4951153520"
+    ],
+    "expected_faxes": [
       "+495115352129"
     ],
     "expected_socials": [],
-    "notes": "German legal Impressum (mail required by law). 7 mailto addresses + phone/fax +49 511 5352-0/-129 (parsed from text). Verified in browser 2026-07-21."
+    "notes": "German legal Impressum (mail required by law). 7 mailto addresses + phone/fax +49 511 5352-0/-129 (parsed from text). Verified in browser 2026-07-21. Fax moved to expected_faxes 2026-09-24: labelled 'Fax +49 [0]511 5352-129' (verified in raw HTML)."
   },
   {
     "url": "https://www.python.org/",
@@ -88,8 +90,10 @@
     ],
     "expected_phones": [
       "+14154369333",
-      "+14154369993",
       "+15102438020"
+    ],
+    "expected_faxes": [
+      "+14154369993"
     ],
     "expected_socials": [
       "https://facebook.com/eff",
@@ -98,7 +102,7 @@
       "https://tiktok.com/@efforg",
       "https://youtube.com/efforg"
     ],
-    "notes": "US org contact page: 6 mailto emails, 3 phones (+1, region-independent), 5 socials. youtube.com/efforg is a vanity URL (no @/channel/user) the engine's pattern currently misses. Verified in raw HTML 2026-07-21."
+    "notes": "US org contact page: 6 mailto emails, 3 phones (+1, region-independent), 5 socials. youtube.com/efforg is a vanity URL (no @/channel/user) the engine's pattern currently misses. Verified in raw HTML 2026-07-21. Fax moved to expected_faxes 2026-09-24: labelled 'Fax: +1-415-436-9993' (verified in raw HTML)."
   },
   {
     "url": "https://www.gnu.org/contact/",
