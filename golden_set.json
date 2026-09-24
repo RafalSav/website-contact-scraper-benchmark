@@ -6,9 +6,11 @@
       "campaigns@fsf.org",
       "info@fsf.org"
     ],
-    "expected_phones": [],
+    "expected_phones": [
+      "+16175425942"
+    ],
     "expected_socials": [],
-    "notes": "Contact page, single-page scope. mailto campaigns@ + in-text info@. Verified in browser 2026-07-21."
+    "notes": "Contact page, single-page scope. mailto campaigns@ + in-text info@. Verified in browser 2026-07-21. Phone added 2026-09-24: the page now reads 'Please call (617) 542-5942' (verified in raw HTML)."
   },
   {
     "url": "https://www.heise.de/impressum.html",
@@ -43,7 +45,9 @@
   {
     "url": "https://apify.com/",
     "maxContactPages": 0,
-    "expected_emails": [],
+    "expected_emails": [
+      "support@apify.com"
+    ],
     "expected_phones": [],
     "expected_socials": [
       "https://linkedin.com/company/apify",
@@ -51,7 +55,7 @@
       "https://tiktok.com/@apifytech",
       "https://youtube.com/apify"
     ],
-    "notes": "Homepage footer socials (LinkedIn via http in source, deduped). Verified in browser 2026-07-21. youtube.com/apify (vanity) recovered."
+    "notes": "Homepage footer socials (LinkedIn via http in source, deduped). Verified in browser 2026-07-21. youtube.com/apify (vanity) recovered. support@ added 2026-09-24: now published in the Organization JSON-LD contactPoint (verified in raw HTML)."
   },
   {
     "url": "https://www.blender.org/about/",
