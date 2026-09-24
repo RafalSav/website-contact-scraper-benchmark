@@ -52,6 +52,10 @@ has no such distinction, so its phone columns may contain faxes.
   that redirect to another domain (online-tis.de to iisii.de, arbeitsamt.de to
   arbeitsagentur.de), where we stop before the contact pages, and
   bridge-verband.de, whose address sits on a fourth contact page, past our three.
+  The redirects were fixed the same evening: build 0.2.27 follows a site to the
+  front page of the domain it moved to, and in the cloud both now return their
+  contacts (`zentrale@arbeitsagentur.de`, `info@online-tis.de`). The table above is still
+  build 0.2.23's.
 - **At the listing's default of 6 subpages** the same 150 domains cost $2.91
   ($0.019 per domain) for 482 emails on the same 97 domains - more contacts per
   site, not more sites.

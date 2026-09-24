@@ -13,6 +13,7 @@ data behind three measurements, so anyone can check or repeat them:
 | [`field_report_yc300.md`](field_report_yc300.md) | **Yield.** 300 random Y Combinator companies, sampled before anything was run against them. |
 | [`head_to_head_yc150.md`](head_to_head_yc150.md) | **Comparison.** The same 150 domains through two scrapers on the same day, at comparable crawl depth, with the cost each one billed. |
 | [`field_sample_de150.json`](field_sample_de150.json) · [`head_to_head_de150.md`](head_to_head_de150.md) | **The same comparison on German domains** — 150 random `.de` names from the Tranco list, where the result is less flattering and published anyway. |
+| [`field_sample_maps128.json`](field_sample_maps128.json) | **Local businesses from Google Maps** — 128 lawyers, dentists, tax advisers, estate agents and plumbers in four cities: the list a lead-generation buyer brings, and where regulated professions' chambers turn up. |
 | [`vdrmota_comparison.md`](vdrmota_comparison.md) | Per-field accuracy of the same two scrapers against the golden set. |
 
 ## What the numbers say
@@ -36,7 +37,7 @@ but cost more per domain ($0.015 against $0.006), because German legal pages
 publish many contacts and it bills per contact where the incumbent bills per
 page. Both results are here; neither is the whole story alone.
 
-Three findings from the 300-domain field test are worth more than the totals:
+Some findings from the field tests are worth more than the totals:
 
 1. **A privacy policy is a contact page.** Any site subject to GDPR has to
    publish a reachable data-controller contact, so a startup with nothing but a
@@ -57,6 +58,13 @@ Three findings from the 300-domain field test are worth more than the totals:
    with its address, email and phone; on 150 random German domains 12 records
    carried a supervisory authority's inbox, and on 4 it was the "best" email.
    US terms pages print a California consumer-complaint line the same way.
+5. **A regulated profession names its chamber.** Lawyers, dentists, tax
+   advisers and estate agents have to print their chamber, supervisory authority
+   or complaints body, contact details included. In the records of 128 local
+   businesses from Google Maps, 13 addresses belonged to such bodies — the
+   Rechtsanwaltskammer Köln three times, a UK legal ombudsman, a US state
+   attorney general — until the engine learned their names. The footer line
+   crediting the agency that built the site is the same trap.
 
 ## Method
 
@@ -73,6 +81,10 @@ Three findings from the 300-domain field test are worth more than the totals:
 - **German sample.** 150 `.de` names drawn with `random.seed(42)` from the
   Tranco top-1M list (`field_sample_de150.md` has the exact recipe) — a
   popularity sample, so it includes names with no website behind them.
+- **Maps sample.** Up to the first eight Google Maps results for five
+  lead-generation categories in Chicago, Manchester, Köln and Kraków, taken on
+  2026-09-24 (`field_sample_maps128.md` has the details) — the top of Maps, not a
+  random draw of businesses.
 - **Head-to-head.** Both scrapers were given the same 150 domains on the same
   day, with the incumbent configured to crawl at least as deep (in September it
   was charged for 516 pages against our 391). Costs are the amounts each run actually billed, not
