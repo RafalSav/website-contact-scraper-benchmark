@@ -70,6 +70,19 @@ bot-shaped user agent. Build 0.2.23 tries the other spellings of a host and
 sends a browser-shaped agent that still names this Actor; unreachable domains
 went from 47 to 33, and the table above is that build.
 
+## Repriced for the Impressum listing (September 26, 2026)
+
+The German-market variant, Impressum Email Scraper, bills once per company since
+September 26, 2026: $0.0045 for a website that gave an email on its own domain
+(or on the domain it moved to) or a personal mailbox it uses (t-online.de,
+gmx.de and the like), accepting mail - every other contact included. Counted that
+way over the export of the run above, 67 of the 97 domains with an email are
+company leads; the other 30 had only someone else's address or a domain that
+accepts no mail. At $0.0045 each the 150 domains cost **$0.30, $0.0020 per
+domain**, against the incumbent's $0.0062. The general Website Contact & Email
+Scraper still bills per contact, and on German lists it costs more than the
+incumbent, as the table says.
+
 ## Honest caveats
 
 - One sample of 150, drawn from a popularity list; results on a list of real

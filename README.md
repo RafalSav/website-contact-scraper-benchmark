@@ -35,7 +35,9 @@ On 150 random German domains the same day, this engine found an email on more
 of them (64.7% against 56.7%) and a usable phone on far more (91 against 37) —
 but cost more per domain ($0.015 against $0.006), because German legal pages
 publish many contacts and it bills per contact where the incumbent bills per
-page. Both results are here; neither is the whole story alone.
+page. Both results are here; neither is the whole story alone. The German-market
+variant bills once per company since September 26, 2026; repriced that way, the
+same run costs $0.0020 per domain (`head_to_head_de150.md`).
 
 Some findings from the field tests are worth more than the totals:
 
